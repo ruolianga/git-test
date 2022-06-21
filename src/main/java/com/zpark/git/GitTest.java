@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("I love git! --master");
         System.out.println("I love git! --master1");
         System.out.println("I hate git! --hot-fix");
+        System.out.println("I hate git! --hot-fix1");
     }
 }
